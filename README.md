@@ -1,2 +1,2 @@
 # brittany-hills
-various projects
+various projects to be added.
